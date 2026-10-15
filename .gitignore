@@ -1,0 +1,8 @@
+/dist/
+/build/
+/package/SpaceShooter/spaceshooter
+/package/SpaceShooter/sfxd
+/package/SpaceShooter/data/
+/spaceshooter
+go.work
+go.work.sum

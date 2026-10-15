@@ -1,0 +1,6 @@
+{
+  "label": "Space Shooter",
+  "icon": "/mnt/SDCARD/App/SpaceShooter/icon.png",
+  "launch": "launch.sh",
+  "description": "60 seconds: shoot the drones, dodge everything else"
+}
